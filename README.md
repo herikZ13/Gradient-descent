@@ -1,4 +1,4 @@
-Optimization Gradient descent
+Optimization Gradient descent:
 This is an optimization algorithm that finds a possible minimum value of a function
 
 This activity was done in Google Colab on the advantages of working in the cloud.
